@@ -13,6 +13,8 @@
   This is a CLI application which generates a high quality README after the user is prompted with various questions. <br/>
   These are the questions: <br/> <br/>
   <img src="images\questions.png" alt="Alt text" title="Optional title">
+  <br/>
+  Link to walkthrough video: https://drive.google.com/file/d/1WORQ3jNK9xE8FQmuqck0IPVw9sQUFcwU/view
 
   ## Installation:
   Use `npm install` to install all necessary dependencies.
